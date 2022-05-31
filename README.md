@@ -24,6 +24,6 @@ _It boosts your sales by increasing your lead conversion rate.
 
 
 Make sure to download the pretrained model wieghts from this command :
-'''
+```
 !gdown https://drive.google.com/drive/folders/1Vjm6ZH2ks7e5-GcaZPP25IXxFhLyDLvH?usp=sharing
-'''
+```
